@@ -1,3 +1,4 @@
-### Biggie Presentation on the correlation between the levels of education with nationalistic sentiment and xenophobia
+### Nationalism and Xenophobia
+Biggie Presentation on the correlation between the levels of education with nationalistic sentiment and xenophobia
 
-#### Live at: [udiscover.me/natxeno](http://astute-dev.github.io/)
+#### Live at: [udiscover.me/natxeno](udiscover.me/natxeno)
